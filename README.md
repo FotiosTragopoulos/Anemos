@@ -1,7 +1,7 @@
 # Anemos
 Private, Safe and Fast Web Browser
 
-![Anemos Browser](Anemos/Assets.xcassets/iTunesArtwork.imageset/iTunesArtwork.png?raw=true "Optional Title")
+![Anemos Browser](Anemos/Assets.xcassets/Advertisement Free.png?raw=true)
 # Privacy Policy
 
 Information collection & communication
