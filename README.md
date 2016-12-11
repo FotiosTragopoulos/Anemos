@@ -1,7 +1,7 @@
 # Anemos
 Private, Safe and Fast Web Browser
 
-Privacy Policy
+# Privacy Policy
 
 Information collection & communication
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of Core Geometry Application. We don’t track you. We don't know who you are and we don’t collect, use or disclosure any personal information. We are unable to do so as we do not possess the necessary server database for this purpose and therefore have no information to share. We won’t try to communicate with you through newsletters, marketing or promotional materials. Though we offer unlimited access to the internet through the search engine DuckDuckGo.com whose Privacy Policy can be accessed using the following link https://duckduckgo.com/privacy. 
@@ -16,7 +16,7 @@ Changes To This Privacy Policy
 This Privacy Policy is effective as of March 9, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of Anemos after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. If we make any material changes to this Privacy Policy, we will notify you by placing a prominent notice on our website. If you have any questions about this Privacy Policy don’t hesitate to contact the developer of Anemos.
 
 
-Terms of Use
+# Terms of Use
 
 Thank you for downloading Anemos (the “App”). This App is published by Tragopoulos Fotios. Please read the Terms and Conditions carefully before using the App. By downloading or otherwise accessing the App you agree to be bound by the following terms and conditions and our privacy policy. If you have any queries about the App or these Terms, you can contact me via email or social networking. If you do not agree to these Terms, you should stop using the App immediately.
 The App is made available for your own, personal use and must not be used for any commercial purpose whatsoever or for any illegal or unauthorized purpose. When you use the App you must comply with all applicable international laws, including the local laws in your country of residence.
