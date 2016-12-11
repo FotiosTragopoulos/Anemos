@@ -1,10 +1,7 @@
-//
 //  ViewController.swift
 //  Anemos
-//
 //  Created by Fotios Tragopoulos on 10/12/2016.
 //  Copyright © 2016 Fotios Tragopoulos. All rights reserved.
-//
 
 import UIKit
 
