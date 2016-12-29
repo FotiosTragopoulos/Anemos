@@ -5,15 +5,19 @@ Private, Safe and Fast Web Browser
 # Privacy Policy
 
 Information collection & communication
+
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of Core Geometry Application. We don’t track you. We don't know who you are and we don’t collect, use or disclosure any personal information. We are unable to do so as we do not possess the necessary server database for this purpose and therefore have no information to share. We won’t try to communicate with you through newsletters, marketing or promotional materials. Though we offer unlimited access to the internet through the search engine DuckDuckGo.com whose Privacy Policy can be accessed using the following link https://duckduckgo.com/privacy. 
 
 Disclaimer
+
 DuckDuckGo's brand, logo and name are property of DuckDuckGo Inc and the use of those does not mean an endorsement of this product by DuckDuckGo. 
 
 Security
+
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. 
 
 Changes To This Privacy Policy
+
 This Privacy Policy is effective as of March 9, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of Anemos after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. If we make any material changes to this Privacy Policy, we will notify you by placing a prominent notice on our website. If you have any questions about this Privacy Policy don’t hesitate to contact the developer of Anemos.
 
 
