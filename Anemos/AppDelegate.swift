@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Anemos
 //
-//  Created by Fotios Tragopoulos on 10/12/2016.
-//  Copyright © 2016 Fotios Tragopoulos. All rights reserved.
+//  Created by Fotios Tragopoulos on 01/02/2018.
+//  Copyright © 2018 Fotios Tragopoulos. All rights reserved.
 //
 
 import UIKit
