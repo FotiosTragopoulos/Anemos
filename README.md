@@ -1,7 +1,7 @@
 # Anemos
 Private, Safe and Fast Web Browser
 
-![Anemos Browser](Anemos/Assets.xcassets/Advertisement Free.png?raw=true)
+![Anemos Browser](https://raw.githubusercontent.com/Tragopoulos/Anemos/master/Anemos/Assets.xcassets/Ad_Anemos.png)
 # Privacy Policy
 
 Information collection & communication
